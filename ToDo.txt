@@ -1,4 +1,2 @@
-Добавить в установщик пакета gcc echo сообщение о wiki и headers
-
-urbackup (1) пишет логи в /var/logs - исправить; (2) Добавить в скрипт запуска юзера: ARGS="run -u root --daemon"
-
+Add wiki and headers message to package installer gcc echo
+urbackup (1) writes logs to / var / logs - fix; (2) Add to the user startup script: ARGS = "run -u root --daemon" 
